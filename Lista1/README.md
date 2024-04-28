@@ -41,45 +41,45 @@ Em resumo, os shaders são responsáveis pelo processamento dos vértices e core
 
 a. Apenas com o polígono preenchido
 
-<img src="./Lista1/prints/L15A.png" width="1000">
+<img src="./prints/L15A.png" width="1000">
 
 b. Apenas com contorno
 
-<img src="./Lista1/prints/L15B.png" width="1000">
+<img src="./prints/L15B.png" width="1000">
 
 c. Apenas como pontos
 
-<img src="./Lista1/prints/L15C.png" width="1000">
+<img src="./prints/L15C.png" width="1000">
 
 d. Com as 3 formas de desenho juntas
 
-<img src="./Lista1/prints/L15D.png" width="1000">
+<img src="./prints/L15D.png" width="1000">
 
 <b> 6. Faça o desenho de um círculo na tela, utilizando a equação paramétrica do círculo para gerar os vértices. Depois disso: </b>
 
 a) Desenhe um octágono
 
-<img src="./Lista1/prints/L16A.png" width="1000">
+<img src="./prints/L16A.png" width="1000">
 
 b) Desenhe um pentágono
 
-<img src="./Lista1/prints/L16B.png" width="1000">
+<img src="./prints/L16B.png" width="1000">
 
 c) Desenhe um pac-man!
 
-<img src="./Lista1/prints/L16C.png" width="1000">
+<img src="./prints/L16C.png" width="1000">
 
 d) Desenhe uma fatia de pizza
 
-<img src="./Lista1/prints/L16D.png" width="1000">
+<img src="./prints/L16D.png" width="1000">
 
 e) DESAFIO: desenhe uma “estrela”
 
-<img src="./Lista1/prints/L16E.png" width="1000">
+<img src="./prints/L16E.png" width="1000">
 
 <b>7. Desenhe uma espiral, assim:</b>
 
-<img src="./Lista1/prints/L17.png" width="1000">
+<img src="./prints/L17.png" width="1000">
 
 <b>8. Considerando o seguinte triângulo abaixo, formado pelos vértices P1, P2 e P3, respectivamente com as cores vermelho, verde e azul.</b>
 
@@ -89,8 +89,8 @@ b. Como estes atributos seriam identificados no vertex shader?
 
 Agora implemente!
 
-<img src="./Lista1/prints/L18.png" width="1000">
+<img src="./prints/L18.png" width="1000">
 
 <b>9. Faça um desenho em um papel quadriculado (pode ser no computador mesmo) e reproduza-o utilizando primitivas em OpenGL. Neste exercício você poderá criar mais de um VAO e fazer mais de uma chamada de desenho para poder utilizar primitivas diferentes, se necessário.</b>
 
-<img src="./Lista1/prints/L19.png" width="1000">
+<img src="./prints/L19.png" width="1000">
